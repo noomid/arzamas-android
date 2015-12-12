@@ -1,0 +1,38 @@
+{
+    "lang" : "russian",
+    "title" : "Русская поэзия",
+    "count" : "10",
+    "course" :
+    [
+        {
+            "id"        : "1",
+            "title"     : "Начальная школа",
+            "authors"   : "Пушкин, Лермонтов и друзья",
+            "image"     : "assets/images/pushkin.jpg"
+        },
+        {
+            "id"        : "2",
+            "title"     : "Отрочество",
+            "authors"   : "Есенин, Тютчев, Маяковский",
+            "image"     : "assets/images/russian.jpg"
+        },
+        {
+            "id"        : "3",
+            "title"     : "Непростые ситуации",
+            "authors"   : "Голубовский, Перушев, Бурухин",
+            "image"     : "assets/images/pushkin.jpg"
+        },
+        {
+            "id"        : "4",
+            "title"     : "Nightmare Mode 1",
+            "authors"   : "Гумилёв, Маяковский, Раневская",
+            "image"     : "assets/images/russian.jpg"
+        },
+        {
+            "id"        : "5",
+            "title"     : "Nightmare Mode 2",
+            "authors"   : "Мандельштам, Бальмонт, Децл",
+            "image"     : "assets/images/pushkin.jpg"
+        }
+    ]
+}

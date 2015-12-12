@@ -1,0 +1,29 @@
+{
+    "lang"      : "english",
+    "id"        : "1",
+    "title"     : "Жил на свете рыцарь бедный...",
+    "authors"   : "А.С. Пушкин",
+    "image"     : "assets/images/pushkin.jpg",
+    "challenge" :
+        {
+            "text"  :   ["— Скажи-ка, |{'type':'man', 'word':'дядя'}|, ведь не даром",
+                        "Москва, спаленная |{'type':'fire', 'word':'пожаром'}|,",
+                        "Французу отдана?",
+                        "Ведь были ж |{'type':'facepunch', 'word':'схватки'}| боевые,",
+                        "Да, говорят, еще какие!",
+                        "Недаром помнит вся Россия",
+                        "Про |{'type':'date', 'word':'день'}| Бородина!"
+                    ],
+            "emoji" :   [
+                            {"type":"man"},
+                            {"type":"alien"},
+                            {"type":"hankey"},
+                            {"type":"cop"},
+                            {"type":"fire"},
+                            {"type":"facepunch"},
+                            {"type":"date"},
+                            {"type":"coffee"},
+                            {"type":"ear"}
+                        ]
+        }
+}

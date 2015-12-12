@@ -1,0 +1,22 @@
+{
+    "langs" : [
+        {
+            "id"      : "russian",
+            "title"     : "Играть",
+            "language"  : "Русский",
+            "image"     : "assets/images/russian.jpg"
+        },
+        {
+            "id"        : "english",
+            "title"     : "Play",
+            "language"  : "English",
+            "image"     : "assets/images/russian.jpg"
+        },
+        {
+            "id"      : "ukrainian",
+            "title"     : "Грати",
+            "language"  : "Український",
+            "image"     : "assets/images/russian.jpg"
+        }
+    ]
+}
